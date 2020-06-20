@@ -1,4 +1,4 @@
-# gannamuneni-harsha-vardhan-java8-lambdas-streams
+List of programs :
 
 1. Write a method that returns the average of a list of Integer. -- file : Avg_of_integers.java
 
